@@ -1,0 +1,6 @@
+{
+  "name": "QCC Monitor - PT. Sentral Multi Indotama",
+  "description": "Quality Control Circle (QCC) Progress Monitoring System for PT. Sentral Multi Indotama (SMI), tracking 8-Step PDCA and paper completion across 8 groups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
